@@ -2,15 +2,19 @@ Welcome to Viktoriia Colozzo's QA Portfolio
 
 About Me
 
-I am Viktoriia, a passionate and self-motivated Software QA Engineer with 7 years of expertise in testing Web, Desktop, and Mobile applications. 
+◉ A product can function exactly as designed and still be difficult to navigate, inefficient, frustrating, inaccessible, or unpleasant to use. For me, that is not quality.
 
-My experience includes media platforms, e-commerce, infotainment, and radio industries
+◉ I believe a high-quality product should be useful, efficient, intuitive, accessible, aesthetically thoughtful, and genuinely pleasant to use, regardless of the industry, platform, or purpose.
 
-Portfolio Overview
+◉ Accessibility should not feel like something added at the end. It should make a product easier to navigate, easier to understand, and easier to configure for the people who use it.
 
-This repository serves as a showcase of my key skills and experiences in the field of software quality assurance, including test development, bug report creation, and integration with Postman for 2 projects in TestRail.com that I have created, utilizing their API endpoints.
+◉ With 8+ years of experience across Web, Mobile, Desktop, Firmware, and Hardware products, I look beyond test execution to understand the product as a whole. I want to understand what we are building, the problem it is solving, how people are expected to use it, what could prevent them from having a good experience, and where the product can be stronger before those issues reach the customer.
 
-I am committed to updating this portfolio with examples of additional tools and technologies, ensuring it remains a comprehensive showcase of my capabilities.
+What You'll Find Here
+
+This portfolio contains examples of my QA work, including test cases, test scenarios, bug reports, and API testing with Postman and TestRail.
+
+The examples demonstrate how I approach software quality through structured testing, thoughtful defect reporting, and attention to both product behavior and the user experience.
 
 Included Contents
 
